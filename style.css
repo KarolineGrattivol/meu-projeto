@@ -65,6 +65,14 @@ div h1{
 
 }
 
+div p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3em;
+    font-weight: normal;
+    margin-top: 0px;
+}
+
 
 
 
